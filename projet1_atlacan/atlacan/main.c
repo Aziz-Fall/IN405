@@ -24,7 +24,7 @@ int main(void)
     for(int i = 0; i < num; i++)
     {
         printf("path racine[%d]: %s\n", i, path[i]);
-        deep_search_atlacan(path[0]);
+        deep_search_atlacan(path[i]);
         printf("***********************************************\n\n");
     }
     
