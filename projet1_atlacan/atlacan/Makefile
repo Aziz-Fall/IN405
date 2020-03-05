@@ -1,5 +1,5 @@
 run: main
-	valgrind ./main 
+	./main 
 
 main: main.o atlacan.o
 	gcc main.o atlacan.o -O1 -o main -g 

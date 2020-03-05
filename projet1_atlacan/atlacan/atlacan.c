@@ -413,7 +413,7 @@ int atl_stat(const char *path, struct atl_stat *stat) {
              i = FS_TREE[i].sibling_id);
 
         if (!i) {
-            fprintf(stderr, "path '%s' does not exists\n", path);
+            fprintf(stderr, "path '%s' does not exist\n", path);
             return 1;
         }
     }

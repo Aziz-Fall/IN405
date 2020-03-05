@@ -1,3 +1,23 @@
+*************************************************************
+|               TD: 03         Salle: G107                  |  
+*************************************************************
+|     NOM           PRENOM                NUM ETUDIANT      |
+*************************************************************
+|     HARAL         DYLAN                 21700650          |
+|     FALL          ABDOU AZIZ            21804685          |
+*************************************************************
+|                                                           |
+| L'argorithme (deep_search_atlacan()) qui cherche le lieu  |  
+| Alacàn est récursif.Cet algorithme effectue un parcourt   |
+| en profondeur en visitant tous les chemins accessibles    |
+| qui se  trouvent dans les répertoires et décode l'indice  |
+| qui se trouve sur chaque lieu non peigé.                  |
+| L'accébilité des lieux et des chemins est vérifé par la   |
+| fonction (checking_accessible()).                         |
+|                                                           |
+*************************************************************
+
+
 L'archive td4-contents.tar contient les fichiers suivants :
 - le fichier README.md, que vous êtes en train de lire ;
 - le fichier atlacan.c, source de la bibliothèque de l'exercice 2 que vous
